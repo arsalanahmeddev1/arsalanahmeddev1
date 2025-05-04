@@ -30,10 +30,27 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![HTML](https://skill-icons.dev/icons?i=html) ![CSS](https://skill-icons.dev/icons?i=css) ![JavaScript](https://skill-icons.dev/icons?i=js) ![PHP](https://skill-icons.dev/icons?i=php)  
-![Laravel](https://skill-icons.dev/icons?i=laravel) ![GSAP](https://skill-icons.dev/icons?i=greensock) ![NPM](https://skill-icons.dev/icons?i=npm) ![TailwindCSS](https://skill-icons.dev/icons?i=tailwind)  
-![SCSS](https://skill-icons.dev/icons?i=scss) ![React](https://skill-icons.dev/icons?i=react) ![Vue](https://skill-icons.dev/icons?i=vue) ![NextJS](https://skill-icons.dev/icons?i=next)  
-![Astro](https://skill-icons.dev/icons?i=astro)
+<p>
+  <img src="https://skill-icons.dev/icons?i=html" alt="HTML" /> 
+  <img src="https://skill-icons.dev/icons?i=css" alt="CSS" /> 
+  <img src="https://skill-icons.dev/icons?i=js" alt="JavaScript" /> 
+  <img src="https://skill-icons.dev/icons?i=php" alt="PHP" />
+</p>
+<p>
+  <img src="https://skill-icons.dev/icons?i=laravel" alt="Laravel" /> 
+  <img src="https://skill-icons.dev/icons?i=greensock" alt="GSAP" /> 
+  <img src="https://skill-icons.dev/icons?i=npm" alt="NPM" /> 
+  <img src="https://skill-icons.dev/icons?i=tailwind" alt="TailwindCSS" />
+</p>
+<p>
+  <img src="https://skill-icons.dev/icons?i=scss" alt="SCSS" /> 
+  <img src="https://skill-icons.dev/icons?i=react" alt="React" /> 
+  <img src="https://skill-icons.dev/icons?i=vue" alt="Vue" /> 
+  <img src="https://skill-icons.dev/icons?i=next" alt="NextJS" />
+</p>
+<p>
+  <img src="https://skill-icons.dev/icons?i=astro" alt="Astro" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanahmeddev1&show_icons=true&locale=en&layout=compact" alt="arsalanahmeddev1" /></p>
 
