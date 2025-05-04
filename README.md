@@ -30,7 +30,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![CSS3](https://skill-icons.dev/icons?i=css) ![HTML5](https://skill-icons.dev/icons?i=html) ![JavaScript](https://skill-icons.dev/icons?i=js) ![Python](https://skill-icons.dev/icons?i=python)
+![HTML](https://skill-icons.dev/icons?i=html) ![CSS](https://skill-icons.dev/icons?i=css) ![JavaScript](https://skill-icons.dev/icons?i=js) ![PHP](https://skill-icons.dev/icons?i=php)  
+![Laravel](https://skill-icons.dev/icons?i=laravel) ![GSAP](https://skill-icons.dev/icons?i=greensock) ![NPM](https://skill-icons.dev/icons?i=npm) ![TailwindCSS](https://skill-icons.dev/icons?i=tailwind)  
+![SCSS](https://skill-icons.dev/icons?i=scss) ![React](https://skill-icons.dev/icons?i=react) ![Vue](https://skill-icons.dev/icons?i=vue) ![NextJS](https://skill-icons.dev/icons?i=next)  
+![Astro](https://skill-icons.dev/icons?i=astro)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanahmeddev1&show_icons=true&locale=en&layout=compact" alt="arsalanahmeddev1" /></p>
 
