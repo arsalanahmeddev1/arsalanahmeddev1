@@ -31,7 +31,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,greensock,npm,tailwind,scss,react,vue,next,astro" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,scss,tailwind,bootstrap" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,jquery,astro,laravel" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,vite,parcel,git,greensock" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanahmeddev1&show_icons=true&locale=en&layout=compact" alt="arsalanahmeddev1" /></p>
 
