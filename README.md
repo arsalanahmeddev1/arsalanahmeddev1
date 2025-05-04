@@ -30,28 +30,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  <img src="https://skill-icons.dev/icons?i=html" alt="HTML" /> 
-  <img src="https://skill-icons.dev/icons?i=css" alt="CSS" /> 
-  <img src="https://skill-icons.dev/icons?i=js" alt="JavaScript" /> 
-  <img src="https://skill-icons.dev/icons?i=php" alt="PHP" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,greensock,npm,tailwind,scss,react,vue,next,astro" />
 </p>
-<p>
-  <img src="https://skill-icons.dev/icons?i=laravel" alt="Laravel" /> 
-  <img src="https://skill-icons.dev/icons?i=greensock" alt="GSAP" /> 
-  <img src="https://skill-icons.dev/icons?i=npm" alt="NPM" /> 
-  <img src="https://skill-icons.dev/icons?i=tailwind" alt="TailwindCSS" />
-</p>
-<p>
-  <img src="https://skill-icons.dev/icons?i=scss" alt="SCSS" /> 
-  <img src="https://skill-icons.dev/icons?i=react" alt="React" /> 
-  <img src="https://skill-icons.dev/icons?i=vue" alt="Vue" /> 
-  <img src="https://skill-icons.dev/icons?i=next" alt="NextJS" />
-</p>
-<p>
-  <img src="https://skill-icons.dev/icons?i=astro" alt="Astro" />
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsalanahmeddev1&show_icons=true&locale=en&layout=compact" alt="arsalanahmeddev1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsalanahmeddev1&show_icons=true&locale=en" alt="arsalanahmeddev1" /></p>
