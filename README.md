@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsalan Ahmed Dev</h1>
 <h3 align="center">A passionate FullStack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalanahmeddev1&label=Profile%20views&color=0e75b6&style=flat" alt="arsalanahmeddev1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsalanahmeddev1" alt="arsalanahmeddev1" /></a> </p>
 
 - 🔭 I’m currently working on **ecommerce website**
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **arsalanwebdev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/arsalanahmeddev1/arsalanahmeddev1/blob/main/ArsalanAhmed-Frontend-Resume.pdf](https://github.com/arsalanahmeddev1/arsalanahmeddev1/blob/main/ArsalanAhmed-Frontend-Resume.pdf)
+- 📄 Know about my experiences [https://github.com/arsalanahmeddev1/arsalanahmeddev1/blob/main/ArsalanAhmed-Frontend-Resume.pdf](https://github.com/arsalanahmeddev1/arsalanahmeddev1/blob/main/ArsalanAhmedResume.pdf)
 
 - ⚡ Fun fact **I once fixed a production bug at 3AM half asleep (and it worked).**
 
